@@ -34,7 +34,7 @@ func ShowAllProperties(ctx *fiber.Ctx) {
 
 	if modeQuery == "Rental" {
 		database.DB.Model(&models.Property{}).Where("Mode = ?", modeQuery).Find(&properties)
-	} else if modeQuery == "Sell" {
+	} else if modeQuery == "Sale" {
 		database.DB.Model(&models.Property{}).Where("Mode = ?", modeQuery).Find(&properties)
 	} else {
 		database.DB.Find(&properties)
@@ -61,6 +61,8 @@ func ShowProperty(ctx *fiber.Ctx) {
 	})
 }
 
+
+// TODO: Update handler for property still a work in progress
 func UpdateProperty(ctx *fiber.Ctx) {
 	id, _ := strconv.Atoi(ctx.Params("ID"))
 
