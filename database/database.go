@@ -22,6 +22,6 @@ func Connect() {
 
 	DB = connection
 
-	connection.Debug().Migrator().DropTable(models.Property{})
-	connection.Debug().AutoMigrate(models.Property{})
+	connection.Debug().Migrator().DropTable(models.Property{}, models.Country{})
+	connection.Debug().AutoMigrate(models.Property{}, models.Country{})
 }
