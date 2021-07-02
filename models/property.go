@@ -10,4 +10,5 @@ type Property struct {
 	Price float32
 	Sqm int
 	Mode string
+	HomeType string
 }
