@@ -11,4 +11,6 @@ type Property struct {
 	Sqm int
 	Mode string
 	HomeType string
+	CountryID uint
+	Country Country `gorm:"foreignKey:CountryID"`
 }
