@@ -51,31 +51,31 @@ Country model:
 
 ### Screenshots:
 
-![Image1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d83d7a3-04c9-4c0e-b1da-c0c286b69c5a/Screenshot_2021-07-03_at_11.16.49_PM.png)
+![Image1](https://user-images.githubusercontent.com/1651333/124359483-dc3a3600-dc57-11eb-9ceb-15dad360a3ec.png)
 
 GET All properties (no data yet)
 
-![Image2](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58b55120-3362-4a8d-bc88-31124d49e37c/Screenshot_2021-07-03_at_11.18.52_PM.png)
+![Image2](https://user-images.githubusercontent.com/1651333/124359493-e6f4cb00-dc57-11eb-8724-ee9e148b6bd8.png)
 
 POST Single Property with CountryID (Mode: Sale)
 
-![Image3](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69ff47f5-ce4a-47f7-8f2a-c691371a441c/Screenshot_2021-07-03_at_11.20.32_PM.png)
+![Image3](https://user-images.githubusercontent.com/1651333/124359644-6c787b00-dc58-11eb-8ce4-28635eb3ef6b.png)
 
 POST Single Property with CountryID (Mode: Rental)
 
-![Image4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6633d2c3-17ea-468c-a32c-b9c36204a245/Screenshot_2021-07-03_at_11.21.25_PM.png)
+![Image4](https://user-images.githubusercontent.com/1651333/124359679-992c9280-dc58-11eb-885b-69fd45ec6abb.png)
 
 GET All Properties
 
-![Image5](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d0f1621-578d-44b4-ab7a-db6f00772480/Screenshot_2021-07-03_at_11.29.54_PM.png)
+![Image6](https://user-images.githubusercontent.com/1651333/124359708-ae092600-dc58-11eb-8bef-9cb0b542772c.png)
 
 GET Single Property
 
-![Image6](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fe20bf7-e63a-4e00-b8f6-2e61d304f1cf/Screenshot_2021-07-03_at_11.22.20_PM.png)
+![Image7](https://user-images.githubusercontent.com/1651333/124359714-b6616100-dc58-11eb-97d2-832178a5a47b.png)
 
 GET All Countries
 
-![Image7](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb58e405-c13b-4df6-867a-4539b61376d0/Screenshot_2021-07-03_at_11.31.46_PM.png)
+![Image8](https://user-images.githubusercontent.com/1651333/124359719-c1b48c80-dc58-11eb-954b-8d9b23f357a6.png)
 
 PUT Update Property
 
