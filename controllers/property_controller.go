@@ -69,7 +69,7 @@ func ShowProperty(ctx *fiber.Ctx) {
 	}
 
 	var property models.Property
-	db := database.DB.Find(&property, id)
+	db := database.DB.Preload("Country").Find(&property, id)
 
 	log.Printf("GET Property - Rows affected: %v\n", db.RowsAffected)
 
