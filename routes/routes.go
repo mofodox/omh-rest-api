@@ -8,10 +8,15 @@ import (
 func SetupRoutes(app *fiber.App) {
 	app.Get("/", controllers.Home)
 
-	apiV1 := app.Group("/api/v1")
-	apiV1.Get("/properties", controllers.ShowAllProperties)
-	apiV1.Get("/properties/:id", controllers.ShowProperty)
-	apiV1.Post("/properties", controllers.AddProperty)
-	apiV1.Patch("/properties/:id", controllers.UpdateProperty)
-	apiV1.Delete("/properties/:id", controllers.DeleteProperty)
+	apiV1PropertiesV1 := app.Group("/api/v1/properties")
+	apiV1PropertiesV1.Get("/", controllers.ShowAllProperties)
+	apiV1PropertiesV1.Get("/:id", controllers.ShowProperty)
+	apiV1PropertiesV1.Post("/", controllers.AddProperty)
+	apiV1PropertiesV1.Put("/:id", controllers.UpdateProperty)
+	apiV1PropertiesV1.Delete("/:id", controllers.DeleteProperty)
+
+	apiV1Countries := app.Group("/api/v1/countries")
+	apiV1Countries.Get("/", controllers.GetAllCountries)
+	apiV1Countries.Get("/:id", controllers.GetCountry)
+	apiV1Countries.Post("/", controllers.CreateCountry)
 }
