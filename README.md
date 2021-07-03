@@ -51,31 +51,31 @@ Country model:
 
 ### Screenshots:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d83d7a3-04c9-4c0e-b1da-c0c286b69c5a/Screenshot_2021-07-03_at_11.16.49_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d83d7a3-04c9-4c0e-b1da-c0c286b69c5a/Screenshot_2021-07-03_at_11.16.49_PM.png)
+![Image1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d83d7a3-04c9-4c0e-b1da-c0c286b69c5a/Screenshot_2021-07-03_at_11.16.49_PM.png)
 
 GET All properties (no data yet)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58b55120-3362-4a8d-bc88-31124d49e37c/Screenshot_2021-07-03_at_11.18.52_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58b55120-3362-4a8d-bc88-31124d49e37c/Screenshot_2021-07-03_at_11.18.52_PM.png)
+![Image2](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58b55120-3362-4a8d-bc88-31124d49e37c/Screenshot_2021-07-03_at_11.18.52_PM.png)
 
 POST Single Property with CountryID (Mode: Sale)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69ff47f5-ce4a-47f7-8f2a-c691371a441c/Screenshot_2021-07-03_at_11.20.32_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69ff47f5-ce4a-47f7-8f2a-c691371a441c/Screenshot_2021-07-03_at_11.20.32_PM.png)
+![Image3](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69ff47f5-ce4a-47f7-8f2a-c691371a441c/Screenshot_2021-07-03_at_11.20.32_PM.png)
 
 POST Single Property with CountryID (Mode: Rental)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6633d2c3-17ea-468c-a32c-b9c36204a245/Screenshot_2021-07-03_at_11.21.25_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6633d2c3-17ea-468c-a32c-b9c36204a245/Screenshot_2021-07-03_at_11.21.25_PM.png)
+![Image4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6633d2c3-17ea-468c-a32c-b9c36204a245/Screenshot_2021-07-03_at_11.21.25_PM.png)
 
 GET All Properties
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d0f1621-578d-44b4-ab7a-db6f00772480/Screenshot_2021-07-03_at_11.29.54_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d0f1621-578d-44b4-ab7a-db6f00772480/Screenshot_2021-07-03_at_11.29.54_PM.png)
+![Image5](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d0f1621-578d-44b4-ab7a-db6f00772480/Screenshot_2021-07-03_at_11.29.54_PM.png)
 
 GET Single Property
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fe20bf7-e63a-4e00-b8f6-2e61d304f1cf/Screenshot_2021-07-03_at_11.22.20_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fe20bf7-e63a-4e00-b8f6-2e61d304f1cf/Screenshot_2021-07-03_at_11.22.20_PM.png)
+![Image6](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fe20bf7-e63a-4e00-b8f6-2e61d304f1cf/Screenshot_2021-07-03_at_11.22.20_PM.png)
 
 GET All Countries
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb58e405-c13b-4df6-867a-4539b61376d0/Screenshot_2021-07-03_at_11.31.46_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb58e405-c13b-4df6-867a-4539b61376d0/Screenshot_2021-07-03_at_11.31.46_PM.png)
+![Image7](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb58e405-c13b-4df6-867a-4539b61376d0/Screenshot_2021-07-03_at_11.31.46_PM.png)
 
 PUT Update Property
 
