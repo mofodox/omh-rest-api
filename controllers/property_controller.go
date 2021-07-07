@@ -80,8 +80,6 @@ func ShowProperty(ctx *fiber.Ctx) {
 	})
 }
 
-
-// TODO: Update handler for property still a work in progress
 func UpdateProperty(ctx *fiber.Ctx) {
 	property := new(models.Property)
 
